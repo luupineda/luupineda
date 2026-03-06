@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1536" height="1024" alt="ChatGPT Image 5 mar 2026, 10_56_13 p m" src="https://github.com/user-attachments/assets/bef8e630-1a20-47c4-a4cf-af118312a326" />
+<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/5fa4efa2-da29-4186-9caf-11093394af61" />
+
