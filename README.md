@@ -33,7 +33,7 @@ Se exploran variables como niveles de congestión, retrasos en el tráfico y su 
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat">
 
-<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-blue">
+<img src="https://img.shields.io/badge/Analytics-blue">
 
 </p>
 
