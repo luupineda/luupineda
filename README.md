@@ -18,4 +18,3 @@
                     Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
                 </p>
                 <div>
-![Python](https://img.shields.io/badge/Python-blue) ![Pandas](https://img.shields.io/badge/Pandas-black) |
