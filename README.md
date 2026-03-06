@@ -1,11 +1,7 @@
-**luupineda/luupineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/5fa4efa2-da29-4186-9caf-11093394af61" />
 <div align="center">
     <h1>My Projects</h1>
     <table>
- <h1>My Projects</h1>
-
-<table>
 <tr>
 <td>
 
