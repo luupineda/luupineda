@@ -4,17 +4,44 @@
 <div align="center">
     <h1>My Projects</h1>
     <table>
-        <tr>
-            <td>
-                <a href="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM" target="_blank">
-                    <img src="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM/blob/main/cover.png?raw=true" alt="Cover.png" style="padding-right: 10px; width: 600px; height: 250px;" />
-                </a>
-            </td>
-            <td style="vertical-align: middle;">
-                <h2 align="center" style="color: black; text-decoration: none;">
-                    Movilidad urbana y productividad económica en ciudades de LATAM
-                </h2>
-                <p>     
-                    Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
-                </p>
-                <div>
+ <h1>My Projects</h1>
+
+<table>
+<tr>
+<td>
+
+<a href="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM" target="_blank">
+<img src="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM/blob/main/cover.png?raw=true" 
+alt="Project Cover"
+width="600"
+height="250"/>
+</a>
+
+</td>
+
+<td style="vertical-align: middle; padding-left:20px;">
+
+<h2 align="center">
+Movilidad urbana y productividad económica en ciudades de LATAM
+</h2>
+
+<p>
+Este proyecto analiza la relación entre la movilidad urbana y la productividad económica en diferentes ciudades de América Latina. 
+Se exploran variables como niveles de congestión, retrasos en el tráfico y su posible impacto en indicadores económicos como el PIB per cápita y el desempleo.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat">
+
+<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-blue">
+
+</p>
+
+</td>
+</tr>
+</table>
