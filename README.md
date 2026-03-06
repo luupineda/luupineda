@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 -->
 <img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/5fa4efa2-da29-4186-9caf-11093394af61" />
 
+## 📂 Proyectos
+
+| Proyecto | Descripción |
+|---------|-------------|
+| <img src="images/cover.png" width="250"> | **Movilidad urbana y productividad económica en ciudades de LATAM ** <br><br> Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas. <br><br> ![Python](https://img.shields.io/badge/Python-blue) ![Pandas](https://img.shields.io/badge/Pandas-black) |
