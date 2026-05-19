@@ -43,8 +43,8 @@ Se exploran variables como niveles de congestión, retrasos en el tráfico y su 
 <tr>
 <td>
 
-<a href="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM" target="_blank">
-<img src="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM/blob/main/cover.png?raw=true" 
+<a href="https://github.com/luupineda/Diagnostico-estratagico-integral-para-plataforma-de-suscripcion-y-delivery">
+<img src="https://github.com/luupineda/Diagnostico-estratagico-integral-para-plataforma-de-suscripcion-y-delivery/blob/main/Image%20plataforma%20de%20deliverys.png" 
 alt="Project Cover"
 width="600"
 height="250"/>
