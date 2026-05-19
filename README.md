@@ -39,14 +39,13 @@ Se exploran variables como niveles de congestión, retrasos en el tráfico y su 
 
 </td>
 </tr>
-</table>
 <tr>
 <td>
 
 <a href="https://github.com/luupineda/Diagnostico-estratagico-integral-para-plataforma-de-suscripcion-y-delivery">
-<img src="https://github.com/luupineda/Diagnostico-estratagico-integral-para-plataforma-de-suscripcion-y-delivery/blob/main/Image%20plataforma%20de%20deliverys.png" 
+<img src="https://github.com/luupineda/Diagnostico-estratagico-integral-para-plataforma-de-suscripcion-y-delivery/blob/main/Image%20plataforma%20de%20deliverys.png?raw=true" 
 alt="Project Cover"
-width="600"
+width="300"
 height="250"/>
 </a>
 
