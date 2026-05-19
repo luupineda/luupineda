@@ -40,3 +40,40 @@ Se exploran variables como niveles de congestión, retrasos en el tráfico y su 
 </td>
 </tr>
 </table>
+<tr>
+<td>
+
+<a href="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM" target="_blank">
+<img src="https://github.com/luupineda/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM/blob/main/cover.png?raw=true" 
+alt="Project Cover"
+width="600"
+height="250"/>
+</a>
+
+</td>
+
+<td style="vertical-align: middle; padding-left:20px;">
+
+<h2 align="center">
+Diagnóstico estratégico integral para plataforma de suscripción y delivery
+</h2>
+
+<p>
+Este proyecto realiza un diagnóstico integral, evalua la calidad de datos en Python, analiza si el negocio es rentable, entiende dónde se pierden los usuarios (funnel de conversión) y si los usuarios regresan (retención por cohortes), validar si los cambios generan impacto y comunica los resultados
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat">
+
+<img src="https://img.shields.io/badge/Seaborn-blue">
+
+</p>
+
+</td>
+</tr>
+</table>
